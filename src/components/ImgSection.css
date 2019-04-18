@@ -1,0 +1,8 @@
+.the-img{
+  text-align: center;
+  font-size: 20pt;
+  height: 500px;
+  width: 500px;
+  margin-top: 50px;
+  flex: 1;
+}
